@@ -1,0 +1,60 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h2{
+    font-size: 25px;
+    font-weight: 500;
+}
+h1{
+    font-size: 30px;
+    font-weight: 900;
+}
+.top-section{
+    height: 600px;
+    background-image: url("/images/header-bg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 5%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+    margin-top: 7%;
+    padding-left: 2%;
+}
+.color-red{
+    color: #ec4c77;
+}
+.half-width p{
+    color: gray;
+    margin-bottom: 30px;
+}
+.button-color{
+    text-decoration: none;
+    color: white;
+    background-color: #ec4c77;
+    padding: 8px 25px;
+    border-radius: 5px;
+}
+.half-widths{
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+    padding-left: 2%;
+}
+.half-widths img{
+    width: 100%;
+}
+.biography-section{
+    background-image: url("/images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 1000px;
+}
+.padding-part{
+    padding-top: 150px;
+}
